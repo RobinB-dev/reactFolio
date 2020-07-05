@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.18a661c5.chunk.css",
+    "main.js": "/react-deploy/static/js/main.eb4f5553.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.eb4f5553.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.f3bf3c33.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.f3bf3c33.js.map",
+    "static/js/2.af4c81cd.chunk.js": "/react-deploy/static/js/2.af4c81cd.chunk.js",
+    "static/js/2.af4c81cd.chunk.js.map": "/react-deploy/static/js/2.af4c81cd.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.972ed912a645a215f251c9f6a1658fdf.js": "/react-deploy/precache-manifest.972ed912a645a215f251c9f6a1658fdf.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/main.18a661c5.chunk.css.map": "/react-deploy/static/css/main.18a661c5.chunk.css.map",
+    "static/js/2.af4c81cd.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.af4c81cd.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/react-deploy/static/media/CV.d7ae8372.pdf",
+    "static/media/DiceRoller.JPG": "/react-deploy/static/media/DiceRoller.db07fa85.JPG",
+    "static/media/DrumPad.JPG": "/react-deploy/static/media/DrumPad.d5432ee9.JPG",
+    "static/media/MilleBoards.JPG": "/react-deploy/static/media/MilleBoards.374d7e51.JPG",
+    "static/media/OralB.JPG": "/react-deploy/static/media/OralB.1bc32118.JPG",
+    "static/media/Wirepunk.JPG": "/react-deploy/static/media/Wirepunk.014185a2.JPG",
+    "static/media/check.svg": "/react-deploy/static/media/check.d093f859.svg",
+    "static/media/desktop.svg": "/react-deploy/static/media/desktop.27dabed4.svg",
+    "static/media/heart-red.svg": "/react-deploy/static/media/heart-red.30bda200.svg",
+    "static/media/heart.svg": "/react-deploy/static/media/heart.27b40c8c.svg",
+    "static/media/mobile.svg": "/react-deploy/static/media/mobile.0e7d033c.svg",
+    "static/media/savoir.JPG": "/react-deploy/static/media/savoir.3071a7f5.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3bf3c33.js",
+    "static/js/2.af4c81cd.chunk.js",
+    "static/css/main.18a661c5.chunk.css",
+    "static/js/main.eb4f5553.chunk.js"
+  ]
+}
