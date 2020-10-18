@@ -13,7 +13,7 @@ function Footer(props) {
             <div className="links">
                 <h4>Fait avec <a href="https://reactjs.org/" target="_blank">React.js</a></h4>
             </div>
-      </div>
+        </div>
     )
 }
 

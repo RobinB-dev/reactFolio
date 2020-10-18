@@ -8,6 +8,34 @@ import './style.css';
 function App() {
   return (
     <div>
+            <Card 
+      // INFOS
+      name="MyGalery"
+      imgName="myGalery.png"
+      description="Site que j'ai réalisé à l'occasion de ma candidature pour Synerg'Hetic, montrant mes différentes réalisations graphiques."
+      grade="Projet perso"
+      date="16/10/20"
+      siteLink="https://robinb-dev.github.io/myGallery/"
+      
+      // LEGEND
+      legend="Galerie de mes réalisations"
+      legendLink=""
+      legendLinkName=""
+      lengend2=""
+      
+      // ICONS
+      colorHeart='none'
+      colorCheck='orange'
+      colorMobile='red'
+      colorDesktop='green'
+
+      // CONTRIBUTORS
+      contributorsDisplay="none"
+      
+      // DETAIL GRADE
+      detailGradeDisplay="none"
+       />
+
       <Card 
       // INFOS
       name="Wire punk"
