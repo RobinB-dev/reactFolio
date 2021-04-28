@@ -1,3 +1,9 @@
+.fetching {
+  margin: 40vh auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+}
+
 .App {
   text-align: center;
 }
