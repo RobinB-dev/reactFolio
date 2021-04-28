@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/reactFolio/static/css/main.dee3328a.chunk.css",
-    "main.js": "/reactFolio/static/js/main.3a820e30.chunk.js",
-    "main.js.map": "/reactFolio/static/js/main.3a820e30.chunk.js.map",
+    "main.css": "/reactFolio/static/css/main.ea3a3a73.chunk.css",
+    "main.js": "/reactFolio/static/js/main.5962c38f.chunk.js",
+    "main.js.map": "/reactFolio/static/js/main.5962c38f.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.aa6e63ea.js",
     "runtime-main.js.map": "/reactFolio/static/js/runtime-main.aa6e63ea.js.map",
-    "static/js/2.1fb5333c.chunk.js": "/reactFolio/static/js/2.1fb5333c.chunk.js",
-    "static/js/2.1fb5333c.chunk.js.map": "/reactFolio/static/js/2.1fb5333c.chunk.js.map",
+    "static/js/2.d7e2550b.chunk.js": "/reactFolio/static/js/2.d7e2550b.chunk.js",
+    "static/js/2.d7e2550b.chunk.js.map": "/reactFolio/static/js/2.d7e2550b.chunk.js.map",
     "index.html": "/reactFolio/index.html",
-    "precache-manifest.243fe82d16c07c24c8e0ad1f32be07a5.js": "/reactFolio/precache-manifest.243fe82d16c07c24c8e0ad1f32be07a5.js",
+    "precache-manifest.8c8b70fd294806ea8cd23c456008c869.js": "/reactFolio/precache-manifest.8c8b70fd294806ea8cd23c456008c869.js",
     "service-worker.js": "/reactFolio/service-worker.js",
-    "static/css/main.dee3328a.chunk.css.map": "/reactFolio/static/css/main.dee3328a.chunk.css.map",
-    "static/js/2.1fb5333c.chunk.js.LICENSE.txt": "/reactFolio/static/js/2.1fb5333c.chunk.js.LICENSE.txt",
+    "static/css/main.ea3a3a73.chunk.css.map": "/reactFolio/static/css/main.ea3a3a73.chunk.css.map",
+    "static/js/2.d7e2550b.chunk.js.LICENSE.txt": "/reactFolio/static/js/2.d7e2550b.chunk.js.LICENSE.txt",
     "static/media/CV.pdf": "/reactFolio/static/media/CV.b0bee458.pdf",
+    "static/media/CanLinkMe.png": "/reactFolio/static/media/CanLinkMe.cc47cbc9.png",
     "static/media/DiceRoller.JPG": "/reactFolio/static/media/DiceRoller.db07fa85.JPG",
     "static/media/DrumPad.JPG": "/reactFolio/static/media/DrumPad.d5432ee9.JPG",
     "static/media/MilleBoards.JPG": "/reactFolio/static/media/MilleBoards.374d7e51.JPG",
+    "static/media/MovieReact.png": "/reactFolio/static/media/MovieReact.ed4f7fc0.png",
     "static/media/OralB.JPG": "/reactFolio/static/media/OralB.1bc32118.JPG",
+    "static/media/RPGGame.png": "/reactFolio/static/media/RPGGame.a7ca3f9b.png",
     "static/media/Wirepunk.JPG": "/reactFolio/static/media/Wirepunk.014185a2.JPG",
     "static/media/check.svg": "/reactFolio/static/media/check.d093f859.svg",
     "static/media/desktop.svg": "/reactFolio/static/media/desktop.27dabed4.svg",
@@ -28,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa6e63ea.js",
-    "static/js/2.1fb5333c.chunk.js",
-    "static/css/main.dee3328a.chunk.css",
-    "static/js/main.3a820e30.chunk.js"
+    "static/js/2.d7e2550b.chunk.js",
+    "static/css/main.ea3a3a73.chunk.css",
+    "static/js/main.5962c38f.chunk.js"
   ]
 }

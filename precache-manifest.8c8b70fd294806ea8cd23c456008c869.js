@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b812377d3ec976a3045c1a6deb15a05b",
+    "revision": "3e9f3d6f8bc3f5c3f6832e37d52ed057",
     "url": "/reactFolio/index.html"
   },
   {
-    "revision": "52f378c259ce5e8158b0",
-    "url": "/reactFolio/static/css/main.dee3328a.chunk.css"
+    "revision": "c3cbf4989618fb24214d",
+    "url": "/reactFolio/static/css/main.ea3a3a73.chunk.css"
   },
   {
-    "revision": "8e7560fea8a68011bfdf",
-    "url": "/reactFolio/static/js/2.1fb5333c.chunk.js"
+    "revision": "8e0727bce4bc9adec775",
+    "url": "/reactFolio/static/js/2.d7e2550b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/reactFolio/static/js/2.1fb5333c.chunk.js.LICENSE.txt"
+    "url": "/reactFolio/static/js/2.d7e2550b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52f378c259ce5e8158b0",
-    "url": "/reactFolio/static/js/main.3a820e30.chunk.js"
+    "revision": "c3cbf4989618fb24214d",
+    "url": "/reactFolio/static/js/main.5962c38f.chunk.js"
   },
   {
     "revision": "f60680890cad21e38238",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b0bee458aaf26a4ebe042fe910e7b433",
     "url": "/reactFolio/static/media/CV.b0bee458.pdf"
+  },
+  {
+    "revision": "cc47cbc9eaff6b5bad91a887082c1e11",
+    "url": "/reactFolio/static/media/CanLinkMe.cc47cbc9.png"
   },
   {
     "revision": "db07fa85f7b4ec1991d4aa35767f17b5",
@@ -40,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactFolio/static/media/MilleBoards.374d7e51.JPG"
   },
   {
+    "revision": "ed4f7fc061158bb1d9b49bba244f4718",
+    "url": "/reactFolio/static/media/MovieReact.ed4f7fc0.png"
+  },
+  {
     "revision": "1bc321181c74bad816d814fd482998bc",
     "url": "/reactFolio/static/media/OralB.1bc32118.JPG"
+  },
+  {
+    "revision": "a7ca3f9b2c5d29ad178919994a704301",
+    "url": "/reactFolio/static/media/RPGGame.a7ca3f9b.png"
   },
   {
     "revision": "014185a294ad2d1b73b173771223291a",
