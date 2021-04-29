@@ -10,7 +10,7 @@ function Card(props) {
         <div className="card">
             <div className="image">
                 <a href={props.siteLink} target="_blank">
-                    <img className="image" src={require(`./images/${props.imgName}`)} alt=""></img>
+                    <img className="image" src={require(`./images/${props.imgName}`).default} alt=""></img>
                 </a>
             </div>
             <div className="text-container">
