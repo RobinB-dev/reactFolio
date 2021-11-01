@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.a726f2d7.chunk.css",
-    "main.js": "/reactFolio/static/js/main.c3a7e524.chunk.js",
-    "main.js.map": "/reactFolio/static/js/main.c3a7e524.chunk.js.map",
+    "main.js": "/reactFolio/static/js/main.302d9b3e.chunk.js",
+    "main.js.map": "/reactFolio/static/js/main.302d9b3e.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.9bcb7ec8.js",
     "runtime-main.js.map": "/reactFolio/static/js/runtime-main.9bcb7ec8.js.map",
     "static/js/2.fc36b052.chunk.js": "/reactFolio/static/js/2.fc36b052.chunk.js",
@@ -14,13 +14,17 @@
     "static/media/CanLinkMe.png": "/reactFolio/static/media/CanLinkMe.223fbfdb.png",
     "static/media/DiceRoller.JPG": "/reactFolio/static/media/DiceRoller.a69defd8.JPG",
     "static/media/DrumPad.JPG": "/reactFolio/static/media/DrumPad.dd3db1b1.JPG",
+    "static/media/Eclipse.png": "/reactFolio/static/media/Eclipse.afd88923.png",
     "static/media/MilleBoards.JPG": "/reactFolio/static/media/MilleBoards.37d8d40a.JPG",
     "static/media/MovieReact.png": "/reactFolio/static/media/MovieReact.03276628.png",
+    "static/media/Omaido.png": "/reactFolio/static/media/Omaido.d03eabcd.png",
     "static/media/OralB.JPG": "/reactFolio/static/media/OralB.1f73906c.JPG",
+    "static/media/Popmii.png": "/reactFolio/static/media/Popmii.def36331.png",
     "static/media/RPGGame.png": "/reactFolio/static/media/RPGGame.610fd898.png",
     "static/media/Wirepunk.JPG": "/reactFolio/static/media/Wirepunk.6044b1ea.JPG",
     "static/media/check.svg": "/reactFolio/static/media/check.d890274a.svg",
     "static/media/desktop.svg": "/reactFolio/static/media/desktop.e4232149.svg",
+    "static/media/elleetelles.png": "/reactFolio/static/media/elleetelles.3288bb37.png",
     "static/media/heart-red.svg": "/reactFolio/static/media/heart-red.dd4ca501.svg",
     "static/media/heart.svg": "/reactFolio/static/media/heart.c0a3b5af.svg",
     "static/media/mobile.svg": "/reactFolio/static/media/mobile.476943ab.svg",
@@ -31,6 +35,6 @@
     "static/js/runtime-main.9bcb7ec8.js",
     "static/js/2.fc36b052.chunk.js",
     "static/css/main.a726f2d7.chunk.css",
-    "static/js/main.c3a7e524.chunk.js"
+    "static/js/main.302d9b3e.chunk.js"
   ]
 }
