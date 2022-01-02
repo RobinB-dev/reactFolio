@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.a726f2d7.chunk.css",
-    "main.js": "/reactFolio/static/js/main.302d9b3e.chunk.js",
-    "main.js.map": "/reactFolio/static/js/main.302d9b3e.chunk.js.map",
+    "main.js": "/reactFolio/static/js/main.106db47c.chunk.js",
+    "main.js.map": "/reactFolio/static/js/main.106db47c.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.9bcb7ec8.js",
     "runtime-main.js.map": "/reactFolio/static/js/runtime-main.9bcb7ec8.js.map",
     "static/js/2.fc36b052.chunk.js": "/reactFolio/static/js/2.fc36b052.chunk.js",
@@ -21,6 +21,7 @@
     "static/media/OralB.JPG": "/reactFolio/static/media/OralB.1f73906c.JPG",
     "static/media/Popmii.png": "/reactFolio/static/media/Popmii.def36331.png",
     "static/media/RPGGame.png": "/reactFolio/static/media/RPGGame.610fd898.png",
+    "static/media/Selfer.png": "/reactFolio/static/media/Selfer.53661a7e.png",
     "static/media/Wirepunk.JPG": "/reactFolio/static/media/Wirepunk.6044b1ea.JPG",
     "static/media/check.svg": "/reactFolio/static/media/check.d890274a.svg",
     "static/media/desktop.svg": "/reactFolio/static/media/desktop.e4232149.svg",
@@ -35,6 +36,6 @@
     "static/js/runtime-main.9bcb7ec8.js",
     "static/js/2.fc36b052.chunk.js",
     "static/css/main.a726f2d7.chunk.css",
-    "static/js/main.302d9b3e.chunk.js"
+    "static/js/main.106db47c.chunk.js"
   ]
 }
