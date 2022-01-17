@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactFolio/static/css/main.a726f2d7.chunk.css",
-    "main.js": "/reactFolio/static/js/main.106db47c.chunk.js",
-    "main.js.map": "/reactFolio/static/js/main.106db47c.chunk.js.map",
+    "main.js": "/reactFolio/static/js/main.9f531218.chunk.js",
+    "main.js.map": "/reactFolio/static/js/main.9f531218.chunk.js.map",
     "runtime-main.js": "/reactFolio/static/js/runtime-main.9bcb7ec8.js",
     "runtime-main.js.map": "/reactFolio/static/js/runtime-main.9bcb7ec8.js.map",
     "static/js/2.fc36b052.chunk.js": "/reactFolio/static/js/2.fc36b052.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/reactFolio/index.html",
     "static/css/main.a726f2d7.chunk.css.map": "/reactFolio/static/css/main.a726f2d7.chunk.css.map",
     "static/js/2.fc36b052.chunk.js.LICENSE.txt": "/reactFolio/static/js/2.fc36b052.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/reactFolio/static/media/CV.2fba3fea.pdf",
+    "static/media/CV.pdf": "/reactFolio/static/media/CV.ca50632c.pdf",
     "static/media/CanLinkMe.png": "/reactFolio/static/media/CanLinkMe.223fbfdb.png",
     "static/media/DiceRoller.JPG": "/reactFolio/static/media/DiceRoller.a69defd8.JPG",
     "static/media/DrumPad.JPG": "/reactFolio/static/media/DrumPad.dd3db1b1.JPG",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.9bcb7ec8.js",
     "static/js/2.fc36b052.chunk.js",
     "static/css/main.a726f2d7.chunk.css",
-    "static/js/main.106db47c.chunk.js"
+    "static/js/main.9f531218.chunk.js"
   ]
 }
